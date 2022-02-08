@@ -1,0 +1,57 @@
+h3 {font-size: 24px;}
+
+#buscador{background-color: white;
+    margin-left: 15px;
+    border: 1px solid;
+    color: #666}        
+
+#lupa{background-color: white;
+    margin-left: 15px;
+    border: 1px solid;
+    color: #666 ;}
+
+#manito{margin-left: 42px;}
+
+.burger-menu{text-align: center;
+    font-size: 120%;}
+
+#caja{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: #1259c3;
+    border-radius: 5px;}
+
+#burger{
+    color:white;
+    margin-top: 10px;}
+
+.nav{
+    font-size: 12px;
+}
+
+
+.fondo-amarillo{background-color: #EAC926;
+    width: 360px;}
+
+.fondo-gris-claro{background-color: #ebebeb;}
+
+.precios{font-size: 18px;}
+
+.descuentos{font-size: 16px;}
+
+.descripcion{font-size: 16px;}
+
+.footer{text-align: center;}
+
+.footer h4{font-weight: bolder;}
+
+.footer p{font-size: 12px;
+    margin-left: 50px;
+    margin-right: 50px;}
+
+.img-footer{
+    display: inline-block;
+    size: 120%;
+    color: #1259c3;   
+    font-size: 160%;}
